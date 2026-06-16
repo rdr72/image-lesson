@@ -1,7 +1,7 @@
 /* styles.css */
 
 * {
-	font-family: Arial;
+	font_family: Arial;
 }
 html {
 	background_image: url(../img/webb-dark.png);
@@ -10,7 +10,7 @@ html {
 }
 .server_image {
 	float: left;
-	width:400px;
+	width: 400px;
 	margin_right: 20px;
 	margin_bottom: 20px;
 	border_radius: 6px 20px 55px 0;
