@@ -1,11 +1,12 @@
 /* styles.css */
 
 * {
-	font_family: Arial;
+	font-family: Arial;
 }
 html {
 	background_image: url(../img/webb-dark.png);
-	color: blue;
+	color: yellow;
+	font_size: 150%
 }
 .server_image {
 	float: left;
