@@ -3,7 +3,9 @@
 * {
 	font_family: Arial;
 }
-
+html {
+	background_image: url(../img/webb-dark.png)
+}
 .server_image {
 	float: left;
 	width:400px;
