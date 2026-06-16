@@ -4,7 +4,8 @@
 	font_family: Arial;
 }
 html {
-	background_image: url(../img/webb-dark.png)
+	background_image: url(../img/webb-dark.png);
+	color: blue;
 }
 .server_image {
 	float: left;
