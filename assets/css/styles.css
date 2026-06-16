@@ -11,9 +11,9 @@ html {
 .server_image {
 	float: left;
 	width: 400px;
-	margin_right: 20px;
-	margin_bottom: 20px;
-	border_radius: 6px 20px 55px 0;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	border-radius: 6px 20px 55px 0;
 	border: 10px solid #66ccdd;
 }
 
